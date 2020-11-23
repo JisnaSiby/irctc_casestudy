@@ -1,8 +1,8 @@
-#include<iosteam>
+#include<iostream>
 using namespace std;
-int main(){
-    cout<<"new "<<endl;
-    return 0;
-}
-
-
+int main(void)
+{
+  cout<<"i am devaki\n";
+  cout<<"how are you??"<<endl;
+  return 0;
+ }
