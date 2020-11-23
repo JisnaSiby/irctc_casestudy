@@ -1,6 +1,8 @@
-#include<iostream>
+#include<iosteam>
 using namespace std;
 int main(){
-cout<<"new pgrm\n";
-return 0;
+    cout<<"new "<<endl;
+    return 0;
 }
+
+
